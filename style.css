@@ -259,8 +259,8 @@ img{
   margin-top: 10%;
 }
 .card{
-  height: 55vh;
-  width: 25vw;
+  height: 250px;
+  width: 170px;
   background-color: #12172A;
   border-radius: 5px;
   border: 2px #fff;
